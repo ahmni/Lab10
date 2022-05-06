@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://www.eecs.mit.edu/wp-content/uploads/2021/06/compscihero-1024x545.jpg);
+    background-color: black;
+}
+* {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+li {
+    font-size: 40px;
+    border-style: solid;
+    border-color: grey;
+}
+a:hover {
+    font-size: 48px;
+    color: rgb(212, 60, 14);
+}
+
+li:hover {
+    background-color: rgb(0, 169, 211);
+    border-color: white;
+}
+
